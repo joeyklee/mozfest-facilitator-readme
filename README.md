@@ -2,7 +2,7 @@
 
 ## So you're facilitating a session at Mozfest...
 
-![image of here to help](here-to-help.jpg)
+![image of here to help](img/here-to-help.jpg)
 
 We're so happy you can join us this year to share your latest idea, project, and/or skills with the Mozfest community! 
 
@@ -10,7 +10,7 @@ If you've been selected as a facilitator, you might have some questions like, "w
 
 ***
 ### Hands On
-![image of demo](hands-on-2.jpg)
+![image of demo](img/hands-on-2.jpg)
 
 
 ***About***
@@ -36,7 +36,7 @@ In the 2 hours of your session, you might:
 
 ***
 ### Learning Lab
-![image of learning lab](learning-lab-3.jpg)
+![image of learning lab](img/learning-lab-3.jpg)
 
 ***About***
 
@@ -58,7 +58,7 @@ An example of a learning lab might be a session about gathering ideas about how 
 
 ***
 ### Sprint
-![image of sprint](sprint-1.jpg)
+![image of sprint](img/sprint-1.jpg)
 
 ***About***
 
@@ -82,7 +82,7 @@ Another example of a sprint might be a 2-3 hour period in which you ask your par
 
 ***
 ### Demo
-![image of demo](demo-1.jpg)
+![image of demo](img/demo-1.jpg)
 
 ***About***
 
@@ -101,7 +101,7 @@ Another example of a demo might be to show people the new web app you built that
 ***
 ### Fireside Chat
 
-![image of fireside chat](fireside-chat-1.jpg)
+![image of fireside chat](img/fireside-chat-1.jpg)
 
 ***About***
 
