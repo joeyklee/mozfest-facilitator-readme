@@ -64,6 +64,8 @@ An example of a learning lab might be a session about gathering ideas about how 
 
 A *sprint* may be a concentrated burst of effort that is dedicated to developing a project. This may be in the form of fielding contributions, onboarding new contributors, adding new features, or brainstorming and milestoning the next steps for a project. A sprint is also a great way to start a project that has been brewing in your mind and you're looking for an opportunity to start. Often times a sprint will attract people who are already interested in your topic and/or already familiar with your project and want to contribute in some way.
 
+If you'd like your sprint project to be featured on [Network Pulse](http://mzl.la/pulse) at MozFest, be sure to complete [Open Project Training](https://acabunoc.github.io/mozfest-open-projects-2016/) before the festival!
+
 ***Timing***
 
 tbd
